@@ -11,3 +11,14 @@
 *.lai
 *.la
 *.a
+
+# For vs
+*.pdb
+
+# For Qt
+ui_*.h
+*.Debug
+*.Release
+*.user
+debug
+release
